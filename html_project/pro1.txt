@@ -1,0 +1,6 @@
+<html>
+<frameset rows="35%,50%,15%"><frameset cols="50%,50%">
+<frame src="yoo.html">
+</frame>
+
+</frameset></html>
